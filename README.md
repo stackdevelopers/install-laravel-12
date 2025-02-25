@@ -7,6 +7,7 @@ Laravel 12 is now officially released! Follow these simple steps to install Lara
 Ensure PHP version 8.2 or higher.
 
 🔹 Download XAMPP: https://www.apachefriends.org/download.html
+
 🔹 Download WAMP: http://www.wampserver.com/en/
 
 Start Apache and MySQL after installation.
